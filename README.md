@@ -58,9 +58,6 @@ Features instant chat between students and landlords.
 
 ![StudentStay](studentstay-home.png)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 <img width="1341" height="627" alt="image" src="https://github.com/user-attachments/assets/118b5916-134b-40fc-a1c3-b21f4fbd0407" />
 
