@@ -56,7 +56,7 @@ Features instant chat between students and landlords.
 
 🌐 **[View Live Website](https://Nompumelelo82.github.io/StudentStay-Project)**
 
-![StudentStay](studentstay-home.png)
+
 
 
 <img width="1341" height="627" alt="image" src="https://github.com/user-attachments/assets/118b5916-134b-40fc-a1c3-b21f4fbd0407" />
