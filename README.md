@@ -53,7 +53,7 @@ Features instant chat between students and landlords.
 
 **Tech:** React, JavaScript, CSS
 
-(🌐 **[View Live Website](https://Nompumelelo82.github.io/StudentStay-Project)**)
+🌐 **[View Live Website](https://Nompumelelo82.github.io/StudentStay-Project)**
 
 
 
