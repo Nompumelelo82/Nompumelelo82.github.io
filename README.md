@@ -54,7 +54,8 @@ Features instant chat between students and landlords.
 | Other | Problem solving, Agile methodology |
 
 ---
-
+##Watch my mock-interview Video
+[Watch my mock Interview](./Mock Interview Video.mp4)
 
 ## 📋 References
 
