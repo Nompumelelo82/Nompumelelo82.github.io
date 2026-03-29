@@ -45,13 +45,18 @@ Features instant chat between students and landlords.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-**Programming Languages:** Java, Python, JavaScript, Node.js, HTML, CSS, React  
-**Software & Tools:** Figma, Microsoft Azure, GitHub, MySQL  
-**Other:** Problem solving, UI/UX design, Agile methodology
+| Area | Skills |
+|---|---|
+| Frontend | HTML5, CSS3, JavaScript, React, UI/UX Design |
+| Backend | Java, Python, Node.js |
+| Databases | MySQL |
+| Tools | Git & GitHub, Figma, Microsoft Azure, VS Code |
+| Other | Problem solving, Agile methodology |
 
 ---
+
 
 ## 📋 References
 
