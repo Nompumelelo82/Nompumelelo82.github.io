@@ -25,17 +25,6 @@ National Senior Certificate
 
 ---
 
-## 🏆 Academic Achievements
-
-| Subject | Mark | Result |
-|---|---|---|
-| Project 2 | 89% | ⭐ Pass with Distinction |
-| Communications Networks Fundamentals 2 | 82% | ⭐ Pass with Distinction |
-| Applications Development Fundamentals 2 | 76% | ⭐ Pass with Distinction |
-| Programming 1 | 75% | ⭐ Pass with Distinction |
-
----
-
 
 ## 💻 Projects
 
