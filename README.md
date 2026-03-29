@@ -3,7 +3,8 @@
 
 📍 143 Sir Lowry Street, Woodstock, Cape Town  
 📞 064 663 6026 | ✉️ 240256727@mycput.ac.za  
-🔗 GitHub: Nompumelelo82 | LinkedIn: linkedin.com/in/nompumelelo-mbatha-8685bb352/
+🔗 GitHub: Nompumelelo82 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nompumelelo%20Mbatha-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nompumelelo-mbatha-8685bb352/)
 
 ---
 
