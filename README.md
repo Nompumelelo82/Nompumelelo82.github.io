@@ -20,9 +20,6 @@ technologies, with a focus on clean code and user-centred design.
 **Cape Peninsula University of Technology**  
 Diploma: ICT in Applications Development  Present (3rd Year)*
 
-**Thuthukani Secondary School**  
-National Senior Certificate 
-
 ---
 
 
